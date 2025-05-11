@@ -1,4 +1,4 @@
-package com.divyatha-web;
+package com.divyatha_web;
 
 /**
  * Hello world!
